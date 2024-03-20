@@ -26,3 +26,4 @@ FOREIGN KEY (utenteRIF) REFERENCES utente(utenteID) ON DELETE CASCADE
 );
 ```
 
+Per tempistiche mi sono fermato alle operazioni di CRUD sul database tramite C#. Ho avuto alcuni problemi per quanto riguarda l'insert dell'oggetto Prestito quando la variabile DataRestituzione veniva settata a null. Ho inoltre implementato alcuni metodi aggiuntivi, quali GetByUtente, GetByLibro e GetByLibroUtente. Nei prossimi giorni verranno implementate tutte le caratteristiche richieste da traccia. 

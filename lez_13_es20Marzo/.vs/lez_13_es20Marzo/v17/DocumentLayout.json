@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es20marzo\\lez_13_es20marzo\\lez_13_es20marzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|solutionrelative:lez_13_es20marzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es20marzo\\lez_13_es20marzo\\lez_13_es20marzo\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|solutionrelative:lez_13_es20marzo\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es20marzo\\lez_13_es20marzo\\lez_13_es20marzo\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|solutionrelative:lez_13_es20marzo\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es20marzo\\lez_13_es20marzo\\lez_13_es20marzo\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|solutionrelative:lez_13_es20marzo\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es20marzo\\lez_13_es20marzo\\lez_13_es20marzo\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD24C-EB06-485B-A59C-428710296DD2}|lez_13_es20Marzo\\lez_13_es20Marzo.csproj|solutionrelative:lez_13_es20marzo\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestitoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\PrestitoDAL.cs",
+              "RelativeDocumentMoniker": "lez_13_es20Marzo\\DAL\\PrestitoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\PrestitoDAL.cs",
+              "RelativeToolTip": "lez_13_es20Marzo\\DAL\\PrestitoDAL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAnwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:25:48.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "lez_13_es20Marzo\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\Models\\Utente.cs",
+              "RelativeToolTip": "lez_13_es20Marzo\\Models\\Utente.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:59:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\IDal.cs",
+              "RelativeDocumentMoniker": "lez_13_es20Marzo\\DAL\\IDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\IDal.cs",
+              "RelativeToolTip": "lez_13_es20Marzo\\DAL\\IDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:50:08.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\Program.cs",
+              "RelativeDocumentMoniker": "lez_13_es20Marzo\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\Program.cs",
+              "RelativeToolTip": "lez_13_es20Marzo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:25:09.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\UtenteDAL.cs",
+              "RelativeDocumentMoniker": "lez_13_es20Marzo\\DAL\\UtenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es20marzo\\lez_13_es20Marzo\\lez_13_es20Marzo\\DAL\\UtenteDAL.cs",
+              "RelativeToolTip": "lez_13_es20Marzo\\DAL\\UtenteDAL.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwKQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:26:00.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
